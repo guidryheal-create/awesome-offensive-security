@@ -1,12 +1,10 @@
 # 🔐 Awesome Cybersecurity Tools & Resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/your_repo_pathname/)
-[![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/awesome.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/guidryheal-create/awesome-offensive-security)
+[![Last Commit](https://img.shields.io/github/last-commit/guidryheal-create/awesome-offensive-security)](https://github.com/guidryheal-create/awesome-offensive-security/commits)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)]()
+[![License](https://img.shields.io/github/license/guidryheal-create/awesome-offensive-security)](LICENSE)
 
 A curated list of awesome cybersecurity tools, frameworks, resources, and learning materials. Organized into tools (GitHub repositories) and resources (courses, docs, etc.) for easy navigation.
 
