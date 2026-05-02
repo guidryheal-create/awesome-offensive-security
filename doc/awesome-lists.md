@@ -1,0 +1,21 @@
+# Awesome Lists
+
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists for hackers.
+- [Awesome Red Teaming](https://github.com/HildeTeamTNT/Awesome-Red-Teaming) - List of Awesome Red Team resources.
+- [Awesome Exploit Development](https://github.com/CyberSecurityUP/Awesome-Exploit-Development) - Awesome Exploit Development resources.
+- [Awesome CVE Repo](https://github.com/CVEDB/awesome-cve-repo) - Awesome CVE repository.
+- [Awesome CVE PoC](https://github.com/XiaomingX/awesome-cve-exp-poc) - Awesome CVE exploit PoC.
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
+- [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - Awesome forensics tools.
+- [Awesome Memory Forensics](https://github.com/digitalisx/awesome-memory-forensics) - Awesome memory forensics.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Awesome MCP servers.
+- [Awesome LLM Planning Reasoning](https://github.com/samkhur006/awesome-llm-planning-reasoning) - Awesome LLM planning and reasoning.
+- [Awesome Autonomous Web](https://github.com/Agent-Tools/awesome-autonomous-web) - Awesome autonomous web tools.
+- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps learning path.
+- [Awesome K8s Resources](https://github.com/Axle-Bucamp/awesome-k8s-resources) - Awesome Kubernetes resources.
+- [Awesome Tor](https://github.com/ajvb/awesome-tor) - Curated list of awesome Tor references.
+- [Awesome Web3](https://github.com/ahmet/awesome-web3) - Awesome Web3 resources.
+- [Awesome Database](https://github.com/agarcialeon/awesome-database) - A curated list of awesome database technologies, tools, and resources.
+- [Awesome DevEnv](https://github.com/jondot/awesome-devenv) - Awesome development environments.
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Awesome Linux software.

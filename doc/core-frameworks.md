@@ -1,0 +1,7 @@
+# Core Frameworks & Platforms
+
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - The Metasploit Framework is a powerful open-source platform for developing, testing, and executing exploits. It serves as the de facto standard for penetration testing, offering a vast library of exploits, payloads, and auxiliary modules for security professionals.
+- [Empire](https://github.com/EmpireProject/Empire) - Empire is a post-exploitation framework for Windows environments, designed for red team operations. It provides agents that can be deployed on compromised systems to maintain persistence and execute commands.
+- [Sliver](https://github.com/BishopFox/sliver) - Sliver is an open-source, cross-platform adversary emulation/red team framework. It offers implant-based C2 capabilities with advanced features like DNS canary detection evasion and multi-player support.
+- [Mythic](https://github.com/its-a-feature/Mythic) - Mythic is a collaborative, multi-platform red teaming framework that allows operators to run payloads across various operating systems. It supports custom agents and integrates with C2 frameworks.
+- [Apollo](https://github.com/MythicAgents/Apollo) - Apollo is a cross-platform agent developed for the Mythic framework, enabling post-exploitation activities on Windows, Linux, and macOS systems.

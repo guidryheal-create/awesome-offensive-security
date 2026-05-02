@@ -1,0 +1,36 @@
+# Contributing to Awesome Cybersecurity 🔐
+
+Thanks for helping improve this list.
+
+## 📌 Guidelines
+
+- Only high-quality, maintained resources
+- No duplicates
+- Prefer official docs or well-known repos
+- Add a short description (1 line max)
+- Keep categories consistent
+
+## 🧱 Format
+
+- [Project Name](URL) – Short description
+
+## 🚫 Not Allowed
+
+- Dead links
+- Spam / self-promotion without value
+- Low-quality or outdated tools
+
+## ✅ Pull Request Checklist
+
+- [ ] Link works
+- [ ] Fits correct category
+- [ ] No duplicates
+- [ ] Description added
+
+## 🛠️ Local Check
+
+Run:
+
+```bash
+gem install awesome_bot
+awesome_bot README.md
